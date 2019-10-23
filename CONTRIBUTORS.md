@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [LUCIFERXLUCIFER](https://github.com/LUCIFERXLUCIFER)
+- Place: INDIA
+- Bio: i Like FREE TEES
+- Github: [LUCIFERXLUCIFER](https://github.com/LUCIFERXLUCIFER)
